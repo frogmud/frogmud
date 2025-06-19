@@ -150,31 +150,6 @@ Start → Process → Decision → End
 └─────────┘     └─────────┘     └─────────┘
 ```
 
-## Alignment Examples
-
-<div align="center">
-  
-## Centered Content
-
-This entire section is centered.
-
-![Centered Image](https://via.placeholder.com/300x150/4ECDC4/FFFFFF?text=Centered)
-
-</div>
-
-<div align="right">
-
-## Right-Aligned Content
-
-This text is aligned to the right.
-
-</div>
-
-## Math Equations (GitHub Supports)
-
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-
 ---
 
-<p align="center">© 2025 FROGMUD LLC. All rights reserved.</p>
+<p align="center">🐸 2025 FROGMUD LLC</p>
