@@ -1,6 +1,4 @@
-# 🐸 FROGMUD
-
-# Typography & Layout Placeholder
+# 🐸
 
 ## Headings
 
